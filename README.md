@@ -9,9 +9,16 @@ BDDA;
 - Devre simule edilerek düğüm gerilimleri bulunur.
 
 Özellikler;
+- Uygulama içerisinde örnekler mevcuttur.
 - R, L ve C pasif elemanları ile I ve V kaynakları desteklenmektedir.
 - Uygulamanın içinde yazı editörü ile netlist yazılabilir.
 - L ve C devre elemanlarında 10'un kuvvetini ifade etme biçimleri; 10mH = 10m
-- F P N U M K MEG G T MIL
-- femto pico nano micro milli kilo mega giga tera mil (10−3 inch)
-- 10−15 10−12 10−9 10−6 10−3 10+3 10+6 10+9 10+12 25.4 × 10−6
+    - F = femto = 10-15
+    - P = pico = 10-12
+    - N = nano = 10-9
+    - U = micro = 10-6
+    - M = mili = 10-3
+    - K = kilo = 10+3
+    - MEG = mega = 10+6
+    - G = giga = 10+9
+    - T = tera = 10+12
